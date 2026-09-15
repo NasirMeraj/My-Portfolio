@@ -79,7 +79,7 @@ function Hero() {
 
             <div className="profile-card">
               <img
-                src="/profile.png"
+                src={`${process.env.PUBLIC_URL}/profile.png`}
                 alt="Nasir Meraj"
                 className="profile-image"
               />
