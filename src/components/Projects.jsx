@@ -2,19 +2,19 @@ import {
   Code2,
   ExternalLink,
   CloudSun,
-  TicTacToe
+  TicTacToe,
+  Clapperboard,
 } from "lucide-react";
 
 const projects = [
-//   {
-//     title: "Real-Time Chat App",
-//     description:
-//       "A modern chat application with authentication, messaging and real-time communication.",
-//     icon: <MessageCircle />,
-//     tags: ["React", "Node.js", "MongoDB", "Socket.io"],
-//     github: "https://github.com/",
-//     demo: "#"
-//   },
+  {
+    title: "Cine-X Movies OTT Platform",
+    description:"Cine-X is a full-stack OTT streaming platform built with React, Node.js, Express, and MongoDB, featuring movie streaming, authentication, resume playback, ratings, subscriptions, notifications, and an admin dashboard.",
+    icon: <Clapperboard  />,
+    tags: ["React", "Node.js", "MongoDB", "Mongoose","JWT","Cloudflare R2","Razorpay",],
+    github: "https://github.com/NasirMeraj/-Cine-X",
+    demo: "https://cine-x-frontend.onrender.com/"
+  },
   {
     title: "Tic-Tac-Toe",
     description:
