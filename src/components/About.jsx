@@ -79,7 +79,7 @@ function About() {
               </div>
               <div>
                 <span>Focus</span>
-                <h3>Full Stack Web Applications & Generative AI</h3>
+                <h3>Full Stack Web Applications with Generative AI</h3>
               </div>
             </div>
 
